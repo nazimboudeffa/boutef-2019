@@ -4,6 +4,12 @@ body{
 	background-repeat: no-repeat;
 }
 
+h1{
+	position : relative;
+	top : 380px;
+
+}
+
 #item-img-output{
   border-radius: 50%;
 }
