@@ -5,8 +5,8 @@ body{
 }
 
 h1{
-	position : relative;
-	top : 380px;
+	position : absolute;
+	top : 550px;
 
 }
 
