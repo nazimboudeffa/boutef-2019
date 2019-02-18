@@ -21,8 +21,8 @@ h1{
 }
 */
 figure{
-	position: relative;
-	left: 250px;
+	position: absolute;
+	left: 400px;
 	top: 110px;
 }
 
