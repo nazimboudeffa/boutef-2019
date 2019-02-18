@@ -16,8 +16,8 @@ body{
 */
 figure{
 	position: relative;
-	left: 225px;
-	top: 80px;
+	left: 250px;
+	top: 110px;
 }
 
 label.cabinet{
@@ -36,8 +36,8 @@ label.cabinet input.file{
 }
 
 #upload-demo{
-	width: 250px;
-	height: 250px;
+	width: 150px;
+	height: 150px;
   padding-bottom:25px;
 }
 

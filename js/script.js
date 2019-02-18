@@ -22,7 +22,7 @@ function readFile(input) {
 $uploadCrop = $('#upload-demo').croppie({
   viewport: {
     width: 150,
-    height: 200,
+    height: 150,
     type: 'circle'
   },
   enforceBoundary: false,
@@ -51,7 +51,7 @@ $('#cropImageBtn').on('click', function(ev) {
     format: 'jpeg',
     size: {
       width: 150,
-      height: 200
+      height: 150
     }
   }).then(function(resp) {
     $('#item-img-output').attr('src', resp);
